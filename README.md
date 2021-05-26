@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shanajames2022@cs.ajce.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CmBqNKI2sDVfVvFWgeU5_C9X2jkBulOd/view?usp=sharing](https://drive.google.com/file/d/1CmBqNKI2sDVfVvFWgeU5_C9X2jkBulOd/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1y6j33sGxyWBxk0okcOLVIYQh28Ufjof0/view?usp=sharing)
 
 - ⚡ Fun fact **Call Of Duty -Legendary Player**
 
