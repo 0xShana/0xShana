@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shana James</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanajames0808&label=Profile%20views&color=0e75b6&style=flat" alt="shanajames0808" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanajz&label=Profile%20views&color=0e75b6&style=flat" alt="shanajz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanajames0808" alt="shanajames0808" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanajz" alt="shanajz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shanajames_" target="blank"><img src="https://img.shields.io/twitter/follow/shanajames_?logo=twitter&style=for-the-badge" alt="shanajames_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shanajames0808](https://github.com/shanajames0808)
+- 👨‍💻 All of my projects are available at [https://github.com/shanajz](https://github.com/shanajz)
 
 - 📝 I regularly tweets at [https://twitter.com/shanajames_](https://twitter.com/shanajames_)
 
