@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shanajames_" target="blank"><img src="https://img.shields.io/twitter/follow/shanajames_?logo=twitter&style=for-the-badge" alt="shanajames_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shanajz](https://github.com/shanajz)
+- 👨‍💻 All of my projects are available at [https://github.com/0xShana](https://github.com/0xShana)
 
-- 📝 I regularly tweets at [https://twitter.com/shanajames_](https://twitter.com/shanajames_)
+- 📝 I regularly tweets at [https://twitter.com/shanajamesz](https://twitter.com/shanajamesz)
 
 - 📫 How to reach me **shanajames2022@cs.ajce.in**
 
